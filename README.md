@@ -1,2 +1,2 @@
 # tabgamehelp
-Lugar de buscar ajuda sobre problemas de games.
+Lugar de buscar ajuda sobre problemas de jogos.
